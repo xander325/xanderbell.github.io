@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Xander!'
+landing-title: 'Xander's Computer Science Capstone'
 description: null
 image: null
 author: null
