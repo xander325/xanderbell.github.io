@@ -6,14 +6,14 @@ xander.bell@snhu.edu
 description: 
 
 baseurl: "/xanderbell.github.io" # the subpath of your site, e.g. /blog
-#url: # the base hostname & protocol for your site
-#author:
-#street_address: 1600 Maryland Ave
-#city: Nashville
-#state: TN
-#zip_code: 55555
-#country: United States of America
-#phone: (716) 555-5555
+url: # the base hostname & protocol for your site
+author: Xander Bell
+street_address: 1600 Maryland Ave.
+city: West Sacramento
+state: CA
+zip_code: 95691
+country: United States of America
+phone: (916) 204 6601
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -25,13 +25,13 @@ tiles-count: 4
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/xander325
-  #GitLab:
-  #Google-Plus:
-  #Instagram:
-  #LinkedIn:
-  #Twitter:
-  #Facebook:
-  #Slack:
+  GitLab:
+  Google-Plus:
+  Instagram:
+  LinkedIn:
+  Twitter:
+  Facebook:
+  Slack:
 
 # build settings
 markdown: kramdown
