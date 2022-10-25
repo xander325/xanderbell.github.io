@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Xander's Computer Science Capstone'
+landing-title: 'Computer Science Capstone'
 description: null
 image: null
 author: null
