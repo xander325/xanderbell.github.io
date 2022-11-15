@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Artifacts
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -16,8 +16,12 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">CS 499 Computer Science Captsone</h2>
+<p>As the final step in your journey toward a bachelor of science degree in computer science, you will complete a capstone that integrates the knowledge and
+skills you have developed throughout your program by creating a professional electronic portfolio (ePortfolio) that is representative of your growth in the
+program. To do this, you will polish artifacts you submitted earlier in the program, add the improved artifacts to your ePortfolio, and provide a reflection
+narrative for each artifact. You will also write a professional self-assessment in which you will reflect on your journey through the Computer Science program
+and how you plan to position yourself professionally. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
