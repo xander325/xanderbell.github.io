@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Review
-description: CS499 Capstone https://youtu.be/Ln1d-5O4Uv8      https://youtu.be/Ht7_evThFhM
+description: CS499 Capstone
 ---
 
-{% include youtube.html id="Ln1d-5O4Uv8" %}
+<iframe width="420" height="315" src="https://youtu.be/Ln1d-5O4Uv8 " frameborder="0" allowfullscreen></iframe>
