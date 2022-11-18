@@ -2,11 +2,7 @@
 layout: post
 title: Code Review
 description: CS499 Capstone
-image: assets/images/ART3code6main.JPG
 ---
-
-https://youtu.be/Ht7_evThFhM
-
 <div class="embed-container">
     <iframe width="640" height="390" 
     src="https://youtu.be/Ht7_evThFhM" 
