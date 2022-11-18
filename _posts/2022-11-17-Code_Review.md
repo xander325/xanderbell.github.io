@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Code Review
-description: CS499 Capstone
+description: CS499 Capstone https://youtu.be/Ln1d-5O4Uv8      https://youtu.be/Ht7_evThFhM
 ---
 <div class="embed-container">
     <iframe width="640" height="390" 
-    src="https://youtu.be/Ht7_evThFhM" 
+    src="https://youtu.be/Ln1d-5O4Uv8" 
     frameborder="0" allowfullscreen></iframe>
 </div>
 <style>
