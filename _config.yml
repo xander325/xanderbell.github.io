@@ -2,12 +2,11 @@
 title: SNHU CS499 Capstone
 subtitle: by Xander Bell
 email: xanderlbell@gmail.com & xander.bell@snhu.edu
-description: 
+description: This is my porfolio developed from my time at SNHU pursing my bachelors of Computer Science.
 
 baseurl: "/xanderbell.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Xander Bell
-street_address: 1600 Maryland Ave.
 city: West Sacramento
 state: CA
 zip_code: 95691
