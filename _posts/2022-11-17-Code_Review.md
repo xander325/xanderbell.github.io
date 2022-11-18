@@ -7,4 +7,26 @@ image: assets/images/ART3code6main.JPG
 
 https://youtu.be/Ht7_evThFhM
 
-https://www.youtube.com/watch?v=Ln1d-5O4Uv8&ab_channel=JamesDeane
+<div class="embed-container">
+    <iframe width="640" height="390" 
+    src="https://youtu.be/Ht7_evThFhM" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
+<style>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
