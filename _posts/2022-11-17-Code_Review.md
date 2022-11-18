@@ -4,4 +4,4 @@ title: Code Review
 description: CS499 Capstone
 ---
 
-<iframe width="1260" height="945" src="https://youtu.be/5lt3GDEAQVY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5lt3GDEAQVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
