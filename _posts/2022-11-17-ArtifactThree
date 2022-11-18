@@ -5,7 +5,6 @@ description: Artifact Three
 image: assets/images/ART3code6main.JPG
 ---
 
-![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
 
 This program utilizes a CSV file and imports it into a hash table for our program to search through and remove items from the desired database and we have a dashboard of users to utilize. This assignment was from DAT220, it was broken when  I initially pulled it from my files. 
 
