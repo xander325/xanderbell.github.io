@@ -58,7 +58,8 @@ We can also see in appointment.java and appointmentserivce.java, we use symbolic
 		<h3>Enhancements</h3>
 		<p>In terms of enhancements, I have tried to analyze enough to highlight any areas of improvement but nothing is excessively complex in my opinion, I think the current structure checks out. 
 I plan to add to this further by adding the ability to input customer information like name and DOB. I will then design automated tests to ensure the functionality of these enhancement to show competency in the 1st, 2nd and 5th required outcomes of this course by demonstrating innovative techniques and coherent code, which inevitably promotes a collaborative environment.</p>
-		
+	</div>
+	<!-- Break -->
 		
 		
 <h2 id="content">Category 1 – Software design and engineering</h2>
