@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Algorithms and Data Structures
 image: assets/images/ART2code1JPG.JPG
 nav-menu: true
