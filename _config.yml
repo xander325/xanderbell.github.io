@@ -1,8 +1,8 @@
 # site settings
 title: SNHU CS499 Capstone
-subtitle: by Xander Bell
-email: xanderlbell@gmail.com & xander.bell@snhu.edu
-description: Southern New Hampshire University
+subtitle: Southern New Hampshire University
+email: xanderlbell@gmail.com     xander.bell@snhu.edu
+description: by Xander Bell
 
 baseurl: "/xanderbell.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
