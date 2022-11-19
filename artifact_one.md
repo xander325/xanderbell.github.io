@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Code Review</h1>
+			<h1>Software Design and Engineering</h1>
 		</header>
 
 <!-- Content -->
