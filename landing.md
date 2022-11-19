@@ -33,7 +33,7 @@ nav-menu: true
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="all_posts.md" class="button">Learn more</a></li>
+					<li><a href="https://xander325.github.io/xanderbell.github.io/all_posts.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
