@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-layout: landing
+layout: artifacts
 description: Software design and engineering, algorithms and data structures, and databases
 nav-menu: true
 ---
