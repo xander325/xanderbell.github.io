@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Artifacts
-image: assets/images/pic01.jpg
+title: Code Review
+image: assets/images/ART3code1JPG.JPG
 nav-menu: true
 ---
 
@@ -12,10 +12,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Code Review</h1>
 		</header>
 
 <!-- Content -->
+		
+<iframe width="800" height="600" src="https://www.youtube.com/embed/5lt3GDEAQVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
 <h2 id="content">CS 499 Computer Science Captsone</h2>
 <p>As the final step in your journey toward a bachelor of science degree in computer science, you will complete a capstone that integrates the knowledge and
 skills you have developed throughout your program by creating a professional electronic portfolio (ePortfolio) that is representative of your growth in the
