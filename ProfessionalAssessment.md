@@ -2,7 +2,7 @@
 layout: post
 title: Professional Assessment
 description:
-image: assets/images/selfassessment.jfif
+image: assets/images/maxresdefault.jpg
 nav-menu: true
 ---
 
