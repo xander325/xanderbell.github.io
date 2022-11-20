@@ -71,17 +71,7 @@ Professor comments: For the final portfolio clean up a bit more and make sure yo
 	</div>
 	<div class="6u 12u$(small)">
 		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="" class="button fit](https://xander325.github.io/xanderbell.github.io/artifact_three.html">Default</a></li>
+			<li><a href="https://xander325.github.io/xanderbell.github.io/artifact_three.html" class="button special fit">Next</a></li>
 		</ul>
 	</div>
 </div>
-
-		
-<h3>Buttons</h3>
-
-</ul>
-<ul class="actions fit">
-	<li><a href="https://xander325.github.io/xanderbell.github.io/artifact_three.html" class="NEXT">Fit</a></li>
-</ul>
-<ul class="actions">
