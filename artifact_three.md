@@ -55,7 +55,7 @@ Professor comments: The enhancement is fitting for the category. I am concerned 
 <hr class="major" />
 
 <!-- Buttons -->
-<h4>Actions</h4>
+<h4></h4>
 <ul class="actions vertical">
 	<li><a href="https://xander325.github.io/xanderbell.github.io/artifact_two.html" class="button special fit">Next</a></li>
 	</ul>
