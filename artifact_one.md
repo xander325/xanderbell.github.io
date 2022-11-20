@@ -22,7 +22,8 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Code Analysis</h3>
 <p>First things first, we must understand the existing functionalities of this program. Using the eclipse IDE, we are using the Java language to develop a program that creates and/or updates an appointment. We have the following files, Appointment.java, appointmentTest.java and we have appointmentSerivce.java and appointmentserviceTest.java. These files and their matching test files work in conjunction to not only create a program but also test the functionalities of a program. The structure of these files show that the code is implemented correctly and conforms to pertinent standards, as we can see through indentations it is clear to read and doesn’t have identifiers used for multiple purposes and so on.</p>
-		<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/ART1code2.JPG"alt=""/></span></div>
+		</div>
+<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/ART1code2.JPG"alt=""/></span></div>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3></h3>
