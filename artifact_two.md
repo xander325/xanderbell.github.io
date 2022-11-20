@@ -32,17 +32,15 @@ nav-menu: true
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Enhancements</h3>
-		<p> 
-For enhancements here I focused on implementing retime feature. The reason I focused on 
-
-
-</p>
+		<p> For enhancements here I focused on implementing runtime feature. Albeit, my enhancements were small they do help put into perspective how fast a computer processes. Even when modifying our data structures and adding in an algorithm like a runtime tracker, it still seems uneffected. It is also helpful that we do not have any redundant or unused variables; All the of the code we have here is necessary.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Outcomes/Reflections</h3>
-		<p>
+		<p>Being able to design and provide solutions using algorithmic principles and computer science practices allows us to 
 
- It is also clear that we do not have any redundant or unused variables; All the of the code we have here is necessary.
+			Design and evaluate computing solutions that solve a given problem using
+algorithmic principles and computer science practices and standards appropriate to its
+solution, while managing the trade-offs involved in design choices
 
 </p>
        </div>
