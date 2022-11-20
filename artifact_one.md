@@ -21,27 +21,25 @@ nav-menu: true
 		
 <div class="row">
 	<div class="6u 12u$(small)">
-<h3>Code Analysis</h3>
-	<div class="6u"><span class="image fit"><img src="assets/images/ART1code1.JPG" alt="" /></span></div>
+	<h3>Code Analysis</h3>
+	<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/ART1code1.JPG" alt="" /></span></div>
 		</div>	
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	<div class="6u"><span class="image fit"><img src="assets/images/ART1code2.JPG" alt="" /></span></div>
+	<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/ART1code2.JPG" alt="" /></span></div>
 		</div>	
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	<div class="6u$"><span class="image fit"><img src="assets/images/ART1code3.JPG" alt="" /></span></div>
+	<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/ART1code3.JPG" alt="" /></span></div>
 		</div>		
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-		</div>
-</div>
+</div>	
 	<div class="6u$ 12u$(small)">
 <h3>Output Analysis</h3>
-	<div class="4u"><span class="image fit"><img src="assets/images/ART1servicetest1.JPG" alt="" /></span></div>
+	<div class="6u$ 12u$(small)"><span class="image fit"><img src="assets/images/ART1servicetest1.JPG" alt="" /></span></div>
 		</div>	
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	<div class="4u"><span class="image fit"><img src="assets/images/ART1test1.JPG" alt="" /></span></div>
-		</div>	
+	<div class="6u$ 12u$(small)"><span class="image fit"><img src="assets/images/ART1test1.JPG" alt="" /></span></div>
+
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
 </div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
