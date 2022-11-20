@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <h2 id="content"></h2>
-<p>Below is the code review of my CS499 Capstone artifacts, these artifacts encompass three different categories: Software Engineering & Design, Algorithms & Datastructures, and Databases. Code reviews are extremely important because the additional perspectives provided allow us to not only recieve a better grasp of our work but also expose us to different perspectives. Reviewing our own work out-loud give this similar effect; this is exactly that.</p>
+<p>Below is the code review of my CS499 Capstone artifacts, these artifacts encompass three different categories: Software Engineering & Design, Algorithms & Datastructures, and Databases. Code reviews are extremely important because the additional perspectives provided allow us to not only recieve a better grasp of our work but also expose us to different perspectives. Reviewing our own work out-loud give a similar effect; This is exactly that.</p>
 <!-- Content -->
 		
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/5lt3GDEAQVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
