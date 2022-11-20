@@ -55,7 +55,7 @@ Professor comments: For the final portfolio clean up more and make sure you comm
 <hr class="major" />
 
 <!-- Buttons -->
-<h4>Actions</h4>
+<h4></h4>
 <ul class="actions vertical">
 	<li><a href="https://xander325.github.io/xanderbell.github.io/" class="button special fit">Back Home</a></li>
 	</ul>
