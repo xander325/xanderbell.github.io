@@ -50,7 +50,7 @@ Professor comments: For the final portfolio clean up a bit more and make sure yo
 <hr class="major" />
 
 <!-- Buttons -->
-<h4>Actions</h4>
+<h4></h4>
 <ul class="actions vertical">
 	<li><a href="https://xander325.github.io/xanderbell.github.io/artifact_three.html" class="button special fit">Next</a></li>
 	</ul>
