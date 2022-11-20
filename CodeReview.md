@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 		
-<iframe width="1280" height="900" src="https://www.youtube.com/embed/5lt3GDEAQVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/5lt3GDEAQVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		
 <h2 id="content">Code Review Narrative</h2>
 <p> </p>
