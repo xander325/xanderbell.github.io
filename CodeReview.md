@@ -21,3 +21,10 @@ nav-menu: true
 		
 <h2 id="content">Code Analysis | Software Design and Engineering</h2>
 <p>Code reviews are extremely important because the additional perspectives provided allow us to not only recieve a better grasp of our work but also expose us to different perspectives. Reviewing our own work out-loud give this similar effect; this is exactly that. Here is my code review of my three artifacts, these artifacts encompass three different categories: Software engineering & design, Algorithms & Datastructures, and Databases.</p>
+
+<!-- Buttons -->
+<h4>Actions</h4>
+<ul class="actions vertical">
+	<li><a href="https://xander325.github.io/xanderbell.github.io/artifact_one.html" class="button special fit">Next</a></li>
+	</ul>
+</div>
