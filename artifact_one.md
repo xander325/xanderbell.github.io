@@ -17,9 +17,9 @@ nav-menu: true
 
 <!-- Content -->
 		
-<script src="https://bitbucket.org/xanderbell/cs499_art1/src/4cdc92c55d53363620e10ac5b23d75abb9fcab5b/Appointment.java#lines-1:175"></script>
+<iframe width="1280" height="720" src="https://bitbucket.org/xanderbell/cs499_art1/src/4cdc92c55d53363620e10ac5b23d75abb9fcab5b/Appointment.java#lines-1:175" title="File Viewer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		
-		https://bitbucket.org/xanderbell/cs499_art1/src/4cdc92c55d53363620e10ac5b23d75abb9fcab5b/Appointment.java#lines-1:175
+	
 <h2 id="content">CS 499 Computer Science Captsone</h2>
 <p>In this artifact, we have four Java files that operate as an appointment service, two of them work together to create and delete an appointment while the other two allow us to edit these appointments. This specific artifact showcases software design and engineering in a way that allows me to demonstrate knowledge in the addition of extra functionality, testing, and security. I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities. Being able to demonstrate well-founded and innovated techniques like junit testing and proper Java langauge uasge.
 
