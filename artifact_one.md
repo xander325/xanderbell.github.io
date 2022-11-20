@@ -51,7 +51,7 @@ Professor comments: For the final portfolio clean up a bit more and make sure yo
 <!-- Buttons -->
 <h4></h4>
 <ul class="actions vertical">
-	<li><a href="(https://bitbucket.org/xanderbell/cs499_art1/src/master/" class="button fit">Bitbucket Repository Link</a></li>
+	<li><a href="https://bitbucket.org/xanderbell/cs499_art1/src/master/" class="button fit">Bitbucket Repository Link</a></li>
 	<li><a href="https://xander325.github.io/xanderbell.github.io/artifact_three.html" class="button special fit">Next</a></li>
 	</ul>
 </div>
