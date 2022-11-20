@@ -29,13 +29,13 @@ Professor comments: The enhancement is fitting for the category. I am concerned 
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Code Analysis</h3>
-<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/ART1code2.JPG" alt="" /></span></div>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/ART2code2.JPG" alt="" /></span></div>
+		<p>For category two, Algorithms and data structures we have more Java files that work in conjunction to simulate an operating system utilizing algorithms and data structures to manage all it's components. More specifically, the focus here is about Windows OS and how it goes about managing processes, memory, files, and system resources through algorithms and data structures. This uses six Java files: PageTableEntry, TLBEntry, VM, MakeBACKING_STORE, Frame, and Address. These 6 files allow the user to input a given page size and virtual address and calculate the page number and offset. This is done through algorithms and data structures. While this code may be a little hard to follow at first glace, we can clearly see what is what when following the comments provided; Here we can see what section of the code is doing what and it is very consistent with the code itself.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Output Analysis</h3>
-<div class="6u$ 12u$(small)"><span class="image fit"><img src="assets/images/ART1test1.JPG" alt="" /></span></div>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3></h3>
+<div class="6u$ 12u$(small)"><span class="image fit"><img src="assets/images/ART2test2.JPG" alt="" /></span></div>
+		<p>When analyzing the variables here, we can see that all of these variables we are working with, FRAME_Size, or ADDRESS_SIZE are all very self explanatory; Naming is consistent and clear. We can also see that the consistency between the type of variables and the casting of these variables. It is also clear that we do not have any redundant or unused variables; All the of the code we have here is necessary. In terms of arithmetic operations, we can see that this code does indeed avoid comparing floats; It does not utilize floats. Because of this structure, we do not have to worry about the possibility of rounding errors. Considering this code specifically focuses on the translation of virtual memory, we are really only working with a specific set of numbers.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
