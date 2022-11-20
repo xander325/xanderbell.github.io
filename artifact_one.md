@@ -35,7 +35,7 @@ nav-menu: true
 		<p> I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities. Being able to demonstrate well-founded and innovated techniques like JUnit testing and proper Java langauge uasge.</p>
 	</div>
 	<div class="6u 12u$(small)">
-		<h3>Outcomes/Reflection</h3>
+		<h3>Outcomes/Reflections</h3>
 		<p>In any professional enviroment is it important that our code is designed in a way that it can easily be adjustested to support decscions made by stakeholders. Designing and maintaining modular and coherent code promotes an ease in adjustment and helps build/maintain collaborative environments; Being able to apply this in any software development process is extremely valueble.</p>
        </div>
 </div>
