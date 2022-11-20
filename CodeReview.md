@@ -15,12 +15,11 @@ nav-menu: true
 			<h1>Code Review</h1>
 		</header>
 
+<h2 id="content"></h2>
+<p>Code reviews are extremely important because the additional perspectives provided allow us to not only recieve a better grasp of our work but also expose us to different perspectives. Reviewing our own work out-loud give this similar effect; this is exactly that. Here is my code review of my three artifacts, these artifacts encompass three different categories: Software engineering & design, Algorithms & Datastructures, and Databases.</p>
 <!-- Content -->
 		
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/5lt3GDEAQVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		
-<h2 id="content">Code Analysis | Software Design and Engineering</h2>
-<p>Code reviews are extremely important because the additional perspectives provided allow us to not only recieve a better grasp of our work but also expose us to different perspectives. Reviewing our own work out-loud give this similar effect; this is exactly that. Here is my code review of my three artifacts, these artifacts encompass three different categories: Software engineering & design, Algorithms & Datastructures, and Databases.</p>
 
 <!-- Buttons -->
 <h4></h4>
