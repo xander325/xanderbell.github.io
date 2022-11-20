@@ -29,12 +29,12 @@ Professor comments: The enhancement is fitting for the category. I am concerned 
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Code Analysis</h3>
-<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/ART2code2.JPG" alt="" /></span></div>
+<div class="6u 12u$(small)"><span class="image fit"><img src="assets/images/ART3code2.JPG" alt="" /></span></div>
 		<p>We are analyzing a database in form of a CSV file and developing a program that can either create bids, load bids from a .csv file, display all bids, find bids, and remove bids. This program is created using C++ in the Microsoft visual studio IDE. This specific project focuses the implementation of a database through the use of loops, branches and even some defensive programming! Going through our code, we can see that all logic constructs are complete and properly nested. In turn, we obviously have the common cases first in our IF--ELSE statements. We can also see that each case has a proper break therefore we have a default for these case statements, that will inevitably exit our program; Because this is implemented, each case has loop termination conditions.  We can see that our menu/index is implemented before any of the switch cases, this ensures that our index is working and referenced correctly.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3></h3>
-<div class="6u$ 12u$(small)"><span class="image fit"><img src="assets/images/ART2test2.JPG" alt="" /></span></div>
+<div class="6u$ 12u$(small)"><span class="image fit"><img src="assets/images/ART3test2.JPG" alt="" /></span></div>
 		<p>The statements used in these loops must stay in the loops because it keeps our program from breaking and looping indefinitely upon input. The use of switch cases ultimately allows us to test our user input against the records and file bounds we have in place and because this program utilizes .csv files, we must have some level of defensive programming that ensures our file is valid and this is done through our command line arguments. Due to the fact that this program uses a CSV file, all output files are assigned to memory. "Return 0," at the end of our program is in place to ensure every memory allocation is then deallocated before exiting.</p>
 	</div>
 	<!-- Break -->
