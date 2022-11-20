@@ -36,13 +36,7 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Outcomes/Reflections</h3>
-		<p>Being able to design and provide solutions using algorithmic principles and computer science practices allows us to 
-
-			Design and evaluate computing solutions that solve a given problem using
-algorithmic principles and computer science practices and standards appropriate to its
-solution, while managing the trade-offs involved in design choices
-
-</p>
+		<p>Being able to design and provide solutions using algorithmic principles and computer science practices allows us to create effecient programs. This also helps manage the trade-offs invloved in design choices because we have an opertunity to become more aware of the capabilities of ourselves and our algorithms. While algorithms are used within all of these artifacts, this artifacts showcases the complex logic problems inherent in software.</p>
        </div>
 </div>
 
