@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content"></h2>
-<p>In this artifact, we have five Java files that all work in conjunction to run our main file, VM.java and this file utilizes a text file of virtual addresses and converts it to its physical addresses and values to ultimately simulate the algorithms and data structures an operating system go through.</p>
+<p>In this artifact, we have five Java files that all work in conjunction to run our main file, VM.java and this file utilizes a text file populated with virtual addresses and converts them into physical addresses and values to ultimately simulate the algorithms and data structures that an operating system (Like Windows OS) deal with.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Code Analysis</h3>
@@ -33,7 +33,7 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Enhancements</h3>
 		<p> 
-
+For enhancements here I focused on implementing retime feature. The reason I focused on 
 
 
 </p>
