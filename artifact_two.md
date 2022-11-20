@@ -17,16 +17,16 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content"></h2>
-<p>In this artifact, we have five Java files that all work in conjunction to run our main file, VM.java and this file utilizes a text file populated with virtual addresses and converts them into physical addresses and values to ultimately simulate the algorithms and data structures that an operating system (Like Windows OS) deal with.</p>
+<p>In this artifact we have five Java files that all work in conjunction to run our main file, VM.java, and this file utilizes a text file populated with virtual addresses and converts them into physical addresses to ultimately simulate the algorithms and data structures that an operating system (Like Windows OS) deal with.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Code Analysis</h3>
-<p>For category two, Algorithms and data structures we have more Java files that work in conjunction to simulate an operating system utilizing algorithms and data structures to manage all it's components. More specifically, the focus here is about Windows OS and how it goes about managing processes, memory, files, and system resources through algorithms and data structures. This uses six Java files: PageTableEntry, TLBEntry, VM, MakeBACKING_STORE, Frame, and Address. These 6 files allow the user to input a given page size and virtual address and calculate the page number and offset. This is done through algorithms and data structures.</p>
+<p>For category two, Algorithms and Data Structures we have more Java files that work in conjunction to simulate an operating system by utilizing algorithms and data structures to manage all it's components. More specifically, the focus here is about Windows OS and how it goes about managing processes, memory, files, and system resources through algorithms and data structures. This uses six Java files: PageTableEntry, TLBEntry, VM, MakeBACKING_STORE, Frame, and Address. These six files allow the user to input a given page size and virtual address and calculate the page number and offset.</p>
 <div class="12u$ 12u$(medium)"><span class="image fit"><img src="assets/images/ART2term1.JPG" alt="" /></span></div>
 </div>
 	<div class="6u$ 12u$(small)">
 		<h3></h3>
-<p>While this code may be a little hard to follow at first glace, we can clearly see what is what when following the comments provided; Here we can see what section of the code is doing what and it is very consistent with the code itself. When analyzing the variables here, we can see that all of these variables we are working with, FRAME_Size, or ADDRESS_SIZE are all very self explanatory; Naming is consistent and clear. We can also see that the consistency between the type of variables and the casting of these variables. It is also clear that we do not have any redundant or unused variables; All the of the code we have here is necessary.</p>
+<p>While this code may be a little hard to follow at first glace, we can clearly see what is what when following the comments provided; Here we can see what section of the code is doing what and it is very consistent with the code itself. When analyzing the variables here, we can see that all of these variables we are working with, FRAME_Size, or ADDRESS_SIZE are all self explanatory; Naming is consistent and clear. We can also see that the consistency between the type of variables and the casting of these variables.</p>
 <div class="12u$ 12u$(small)"><span class="image fit"><img src="assets/images/ART2code1.JPG" alt="" /></span></div>
 	</div>
 	<!-- Break -->
@@ -42,7 +42,7 @@ For enhancements here I focused on implementing retime feature. The reason I foc
 		<h3>Outcomes/Reflections</h3>
 		<p>
 
-
+ It is also clear that we do not have any redundant or unused variables; All the of the code we have here is necessary.
 
 </p>
        </div>
