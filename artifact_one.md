@@ -54,7 +54,3 @@ Professor comments: For the final portfolio clean up a bit more and make sure yo
 	<li><a href="https://xander325.github.io/xanderbell.github.io/artifact_three.html" class="NEXT">Fit</a></li>
 </ul>
 <ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
-<ul class="actions">
