@@ -46,7 +46,7 @@ nav-menu: true
 <h4></h4>
 <ul class="actions vertical">
 	<li><a href="https://bitbucket.org/xanderlbell/artifact_2_enhanced/src/master/" class="button fit">Bitbucket Repository Link (Enhanced Files)</a></li>
-	<li><a href="https://bitbucket.org/xanderlbell/artifact_2_orginal/src/master/" class="button fit">Bitbucket Repository Link (Orginal Files)</a></li>
+	<li><a href="https://bitbucket.org/xanderlbell/artifact_2_orginal/src/master/" class="button fit">Bitbucket Repository Link (Original Files)</a></li>
 	<li><a href="https://xander325.github.io/xanderbell.github.io/" class="button special fit">Back Home</a></li>
 	</ul>
 </div>
