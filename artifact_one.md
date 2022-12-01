@@ -27,16 +27,16 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3></h3>
 <div class="12u$ 12u$(small)"><span class="image fit"><img src="assets/images/ART1test1.JPG" alt="" /></span></div>
-		<p>The structure and desigb is consistent across all four of our files and there are no uncalled-for procedures and/or unreachable code implemented in our design. When taking a look at our test files there is not any leftover test routines, our tests are designed to test the functionalities of our code; nothing more and nothing less. The way I designed this code and the way all code should be designed is in a modular fashion; Having the ability to replace sections and/or copy sections of this project and implement it into another is important. It is clear that we can do that with the code we have here. A good example of this is the setup portion for the test files, this is a very modular section and because of this, we are able to take this same setup structure and implement it elsewhere if need be.</p>
+		<p>The structure and design is consistent across all four of our files and there are no uncalled-for procedures and/or unreachable code implemented in our design. When taking a look at our test files there is not any leftover test routines, our tests are designed to test the functionalities of our code; nothing more and nothing less. The way I designed this code and the way all code should be designed is in a modular fashion; Having the ability to replace sections and/or copy sections of this project and implement it into another is important. It is clear that we can do that with the code we have here. A good example of this is the setup portion for the test files, this is a very modular section and because of this, we are able to take this same setup structure and implement it elsewhere if need be.</p>
 	</div>
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Enhancements</h3>
-		<p> I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities. Being able to demonstrate well-founded and innovated techniques like JUnit testing and proper Java langauge uasge.</p>
+		<p>I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities. Being able to demonstrate well-founded and innovated techniques like JUnit testing and proper Java language usage.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Outcomes/Reflections</h3>
-		<p>In any professional enviroment is it important that our code is designed in a way that it can easily be adjustested to support decscions made by stakeholders. Designing and maintaining modular and coherent code promotes an ease in adjustment and helps build/maintain collaborative environments; Being able to apply this in any software development process is extremely valueble.</p>
+		<p>In any professional environment is it important that our code is designed in a way that it can easily be adjusted to support decisions made by stakeholders. Designing and maintaining modular and coherent code promotes an ease in adjustment and helps build/maintain collaborative environments; Being able to apply this in any software development process is extremely valuable.</p>
        </div>
 </div>
 
