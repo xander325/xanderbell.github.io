@@ -33,13 +33,11 @@ nav-menu: true
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Enhancements</h3>
-<p> I made several enhancements here as the program was not working initially. My goal was to implement a user-inputted search function and a user-inputted removal function. While maintaining coherent and consistent code I was able to implement these functions in a relatively modular fashion making them easy to add onto and edit if needed. Through testing, it was apparent that it was very easy for a user to delete a record so I also went ahead and implemented a failsafe requiring the user to confirm before the deletion a record.
-</p>
+<p>I made several enhancements here as the program was not working initially. My goal was to implement a user-inputted search function and a user-inputted removal function. While maintaining coherent and consistent code I was able to implement these functions in a relatively modular fashion making them easy to add onto and edit if needed. Through testing, it was apparent that it was very easy for a user to delete a record, so I also went ahead and implemented a failsafe requiring the user to confirm before the deletion a record.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Outcomes/Reflections</h3>
-<p>In efforts to reach our course outcomes; demonstrating an ability to use well-founded and innovative techniques and demonstrating a security mindset that anticipates adversarial exploits, designs to expose potential vulnerabilities, and mitigate design flaws, I felt this program was most applicable. I was also able to demonstrate innovative techniques through my enhancements while also following industry-standard designs. 
-</p>
+<p>The implementation of these enhancements showcases my ability to not only use innovative techniques but also maintain consistent and modular code while also following industry-standard designs. With my coherent enhancements, it very clear what additions were made, and which block of code is doing what. When testing and creating the confirmation portion of my deletion feature, I was able to show case my ability again to think as an adversary.  The usage of these skills is important in software development because all of these skills work in conjunction to create a competent software engineer!</p>
        </div>
 </div>
 
