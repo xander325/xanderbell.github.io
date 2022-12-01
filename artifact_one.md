@@ -32,13 +32,11 @@ nav-menu: true
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Enhancements</h3>
-		<p>I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities; These additions consist of date of birth and "insurance Type" fields for our appointment service. The JUnit tests are created to mitigate flaws and ensure our code functions as desired. Through these additions I was able to demonstrate well-founded and innovated techniques with JUnit testing and proper Java language usage.</p>
+		<p>I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities. These additions consist of a new "Date of Birth" field and an "Insurance Type" field for our appointment service. The JUnit tests are created to mitigate flaws and ensure our code functions as desired. Through these additions I was able to demonstrate well-founded and innovate techniques like JUnit testing and proper Java language usage.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Outcomes/Reflections</h3>
-		<p>
-			
-			In any professional environment is it important that our code is designed in a way that it can easily be adjusted to support decisions made by stakeholders. Designing and maintaining modular and coherent code promotes an ease in adjustment and helps build/maintain collaborative environments. When it comes to creating JUnit tests, they must be approached with a security mindset because we are attempting to mitigate design flaws and find potential vulnerabilities. Being able to apply this in any software development process is extremely valuable.</p>
+		<p>In any professional environment is it important that our code is designed in a way that it can easily be adjusted to support decisions made by stakeholders. Designing and maintaining modular and coherent code promotes an ease in adjustment and helps build/maintain collaborative environments. When it comes to creating JUnit tests, they must be approached with a security mindset because we are attempting to mitigate design flaws and find potential vulnerabilities. Being able to apply this in any software development process is extremely valuable.</p>
        </div>
 </div>
 
