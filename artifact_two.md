@@ -32,11 +32,11 @@ nav-menu: true
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Enhancements</h3>
-		<p> For enhancements here I focused on implementing runtime feature. Albeit, my enhancements were small they do help put into perspective how fast a computer processes. Even when modifying our data structures and adding in an algorithm like a runtime tracker, it still seems uneffected. It is also helpful that we do not have any redundant or unused variables; All the of the code we have here is necessary.</p>
+		<p>For enhancements here I focused on implementing runtime feature. Albeit, the enhancements were minimal, they do help put into perspective how fast a computer processes. Even when modifying our data structures and adding in an algorithm like a runtime tracker, the program seems unphased. This is because algorithms create efficiencies in our code, and this is a prime example of that. Granted, just because something is an algorithm that does not mean that it is efficient; There are plenty of inefficient algorithms out there! It is also helpful that we do not have any redundant or unused variables, that would create inefficiencies in our code; All the of the code we have here is necessary.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Outcomes/Reflections</h3>
-		<p>Being able to design and provide solutions using algorithmic principles and computer science practices allows us to create effecient programs. This also helps manage the trade-offs invloved in design choices because we have an opertunity to become more aware of the capabilities of ourselves and our algorithms. While algorithms are used within all of these artifacts, this specific artifact showcases the complex logic problems inherent in software.</p>
+		<p>Being able to design and provide solutions using algorithmic principles and computer science practices allow us to create efficient programs. This also helps manage the trade-offs involved in design choices because we have an opportunity to become more aware of the capabilities of ourselves and our algorithms. While algorithms are used within all of these artifacts, this specific artifact showcases the complex logic problems inherent in software.</p>
        </div>
 </div>
 
