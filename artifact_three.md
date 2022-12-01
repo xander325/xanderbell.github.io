@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content"></h2>
-<p>This program utilizes a CSV file and imports the file into a hash table for our program to search through and remove items from. The user utilizes a dashboard to access and edit the database.</p>
+<p>This program utilizes a CSV file and imports the file into a hash table for our program to search through and remove records from. The user utilizes a dashboard to access and edit this database.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Code Analysis</h3>
@@ -33,7 +33,7 @@ nav-menu: true
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Enhancements</h3>
-<p> I made several enhancments here as the program was not working intially; Once I got it working I was able to make a descion on enhancements. After experiementing with binary trees, I decided it would be best to remain using hash tables. Ultimately, I was able to meet the desired outcomes by taking the approach of implementing a user inputted a bid id search function and a user inputted removal of record via bid ID. I also added a feature requiring user confirmation before the removal of a record.
+<p> I made several enhancements here as the program was not working initially. My goal was to implement a user-inputted search function and a user-inputted removal function. While maintaining coherent and consistent code I was able to implement these functions in a relatively modular fashion making them easy to add onto and edit if needed. Through testing, it was apparent that it was very easy for a user to delete a record so I also went ahead and implemented a failsafe requiring the user to confirm before the deletion a record.
 </p>
 	</div>
 	<div class="6u 12u$(small)">
@@ -49,7 +49,7 @@ nav-menu: true
 <h4></h4>
 <ul class="actions vertical">
 	<li><a href="https://bitbucket.org/xanderlbell/artifact_3_enhanced/src/master/" class="button fit">Bitbucket Repository Link (Enhanced Files)</a></li>
-	<li><a href="https://bitbucket.org/xanderlbell/artifact_3_orginal/src/master/" class="button fit">Bitbucket Repository Link (Orginal Files)</a></li>
+	<li><a href="https://bitbucket.org/xanderlbell/artifact_3_orginal/src/master/" class="button fit">Bitbucket Repository Link (Original Files)</a></li>
 	<li><a href="https://xander325.github.io/xanderbell.github.io/artifact_two.html" class="button special fit">Next</a></li>
 	</ul>
 </div>
