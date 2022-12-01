@@ -32,11 +32,11 @@ nav-menu: true
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Enhancements</h3>
-		<p>I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities. Being able to demonstrate well-founded and innovated techniques like JUnit testing and proper Java language usage.</p>
+		<p>I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities. Through these additions I was able to demonstrate well-founded and innovated techniques like JUnit testing and proper Java language usage. When creating JUnit tests they must be approached with a security mindset because we are attempting to mitage design flaws and find potential vulnrabilities.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Outcomes/Reflections</h3>
-		<p>In any professional environment is it important that our code is designed in a way that it can easily be adjusted to support decisions made by stakeholders. Designing and maintaining modular and coherent code promotes an ease in adjustment and helps build/maintain collaborative environments; Being able to apply this in any software development process is extremely valuable.</p>
+		<p>In any professional environment is it important that our code is designed in a way that it can easily be adjusted to support decisions made by stakeholders. Designing and maintaining modular and coherent code promotes an ease in adjustment and helps build/maintain collaborative environments. In addition, using innovated techniques and approaching problems with a secuirty mindset inevtiably allows us to Being able to apply this in any software development process is extremely valuable. </p>
        </div>
 </div>
 
