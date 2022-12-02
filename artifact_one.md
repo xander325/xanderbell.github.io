@@ -32,7 +32,7 @@ nav-menu: true
 	<!-- Break -->
 	<div class="6u 12u$(small)">
 		<h3>Enhancements</h3>
-		<p>I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities. These additions consist of a new "Date of Birth" field and an "Insurance Type" field for our appointment service. The JUnit tests are created to mitigate flaws and ensure our code functions as desired. Through these additions I was able to demonstrate well-founded and innovate techniques like JUnit testing and proper Java language usage.</p>
+		<p>I have made enhancements to the two files that allow us to create and edit these appointments. The enhancements I have implemented allowed me to add extra fields for our appointment service, adding further capabilities. These additions consist of a new "Date of Birth" field and an "Insurance Type" field for our appointment service. I then created JUnit tests to mitigate flaws and ensure our code functions as desired. Through these additions I was able to demonstrate well-founded and innovate techniques like JUnit testing and proper Java language usage.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Outcomes/Reflections</h3>
